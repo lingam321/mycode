@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591164207332",
+    "project_id": "financeentrybook",
+    "storage_bucket": "financeentrybook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591164207332:android:f6d5c8ee2a75b46a4c7cf1",
+        "android_client_info": {
+          "package_name": "com.crazy.financeentrybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591164207332-pd317nnc8a0t4ts5ndn0i5kl4j5ls2hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXiMSitOJCEmUsaLGwdwBfD4WWArqrrgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591164207332-pd317nnc8a0t4ts5ndn0i5kl4j5ls2hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

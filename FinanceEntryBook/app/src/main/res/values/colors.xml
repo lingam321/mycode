@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorLightJade">#DEFFE1</color>
+    <color name="colorBlack">#000000</color>
+    <color name="green">#52D017</color>
+    <color name="LavenderBlue">#CCCCFF</color>
+    <color name="CornflowerBlue">#6495ED</color>
+    <color name="forestgreen">#228B22</color>
+    <color name="gainsboro">#DCDCDC	</color>
+    <color name="ChilliPepper">#C11B17</color>
+    <color name="gray69">#B0B0B0</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightred">#ff607f</color>
+    <color name="mostlywhitered">#ffe9ee</color>
+    <color name="red">#C60B0B</color>
+    <color name="Verylightpink">#ff7aa3</color>
+    <color name="darkgreen">#057326</color>
+</resources>
